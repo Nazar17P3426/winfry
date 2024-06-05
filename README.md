@@ -1,2 +1,2 @@
 # winfry
-my new malware
+C++ long GDI trojan by red-wipet
